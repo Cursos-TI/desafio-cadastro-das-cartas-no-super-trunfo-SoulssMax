@@ -1,5 +1,19 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
     printf("Desafio Super Trunfo!\n");
+
+    printf("Carta 1\n");
+
+    char estado;
+    char codigo[50];
+    char nome[50];
+    int população;
+    float PIB;
+    int pt;
+
+
+
+
+;
 }
